@@ -1,0 +1,38 @@
+*{
+    font-family: sans-serif;
+}
+
+.form{
+    background-color: #4b4737;
+    width: 1550px;
+    height: 1000px;
+    border-radius:50px ;
+   margin-left: 200px;
+   margin-top: 50px;
+   padding: 1em;
+}
+body{
+    background-image: url(https://img.imageboss.me/revista-cdn/cdn/30680/9317090d5f58628412e6ca33b75f676751c6bcdf.jpg?1597000089);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+
+}
+
+body img {
+    position: absolute;
+    width: 200px;
+}
+
+h2{
+    text-align: left;
+font-family: Times New Roman;
+
+}
+h3{
+    font-family: Times New Roman;
+}
+
+body a {
+    color: green;
+}
